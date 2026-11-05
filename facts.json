@@ -1,0 +1,22 @@
+[
+  {
+    "id": "f1",
+    "text": "A proposal reaches canon only through the queue and a passkey."
+  },
+  {
+    "id": "f2",
+    "text": "Every model call goes through one gateway & is metered."
+  },
+  {
+    "id": "f3",
+    "text": "A cap of $3 a day is less than < a cap of $10 a day."
+  },
+  {
+    "id": "f4",
+    "text": "The builder writes only inside its own worktree."
+  },
+  {
+    "id": "f5",
+    "text": "A check that could not check is a failure, never a pass."
+  }
+]
